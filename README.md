@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, my name is Bernardo!  
 
-<!--
-**jbernardobvdias/jbernardobvdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I have experience in **Backend Development** and **Data Science**, having worked on developing **integration solutions** between multiple APIs using **C#**, building desktop applications in **Python**, and applying AI for **computer vision** and **natural language processing**.  
 
-Here are some ideas to get you started:
+## 💻 What I Do  
+- **Programming Languages:** Python, C#, Go, Java, C, SQL, JavaScript, Assembler
+- **Software Development:** Web API Integration, RESTful APIs, Desktop Applications, Agile Methodologies, Unit Testing, Code Automation, Git
+- **Tools & Frameworks:** PyTorch, TensorFlow, Qt, NUnit, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects  
+Check out some of my interesting projects:  
+🔹 [Social Media for Software Engineering Students](https://github.com/Bachelor-Project-Group26/Codeware-Main)  
+🔹 [Desktop Application for Curating Camera Trap Feed](https://github.com/jbernardobvdias/Auto-Curation-System)  
+
+## 📫 Let's Connect!  
+- [LinkedIn](https://www.linkedin.com/in/jbbvd/)  
+
+Always open to collaborations and interesting discussions!  
