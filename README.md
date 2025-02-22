@@ -10,10 +10,8 @@ I have experience in **Backend Development** and **Data Science**, having worked
 
 ## Projects:  
 Check out some of my interesting projects:  
+- [Desktop Application to Track Productivity](https://github.com/jbernardobvdias/Productivity-Tracker)
 - [Social Media for Software Engineering Students](https://github.com/Bachelor-Project-Group26/Codeware-Main)  
 - [Desktop Application for Curating Camera Trap Feed](https://github.com/jbernardobvdias/Auto-Curation-System)  
 
-## My Contacts:  
-- [LinkedIn](https://www.linkedin.com/in/jbbvd/)  
-
-Always open to collaborations and interesting discussions!  
+I am always open to collaborations and interesting discussions. You can reach out to me on [LinkedIn](https://www.linkedin.com/in/jbbvd/).
