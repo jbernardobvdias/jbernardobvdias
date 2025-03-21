@@ -10,6 +10,7 @@ I have experience in **Backend Development** and **Data Science**, having worked
 
 ## Projects:  
 Check out some of my interesting projects:  
+- [Website with LLM Note Summarizer](https://github.com/jbernardobvdias/Smart-Notes)
 - [Desktop Application to Track Productivity](https://github.com/jbernardobvdias/Productivity-Tracker)
 - [Social Media for Software Engineering Students](https://github.com/Bachelor-Project-Group26/Codeware-Main)  
 - [Desktop Application for Curating Camera Trap Feed](https://github.com/jbernardobvdias/Auto-Curation-System)  
