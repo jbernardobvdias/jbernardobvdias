@@ -21,6 +21,9 @@ I thrive on solving real-world problems by merging software engineering and mach
 
 ## Projects  
 
+**[MCP Server](https://github.com/jbernardobvdias/MCP-Server)**  
+An MCP (Model Context Protocol) server with FastMCP, PostgreSQL, and Docker.
+
 **[Codeware](https://github.com/Bachelor-Project-Group26/Codeware-Main)**  
 A social media platform tailored for software engineering students — created for my Bachelor’s thesis.
 
