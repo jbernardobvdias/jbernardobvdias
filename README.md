@@ -3,23 +3,26 @@
 ## About Me  
 I'm a **Software Engineer** with experience in **Backend Development** and **Data Science**. My work spans from building robust **API integration solutions** in C# and **desktop applications** in Python to applying **AI in computer vision** and **natural language processing**.
 
-I thrive on solving real-world problems by merging software engineering and machine learning — always striving to create meaningful, impactful solutions.
+I thrive on solving real-world problems by merging software engineering and machine learning, always striving to create meaningful, impactful solutions.
 
 ---
 
 ## Tech Stack & Tools
 
 ### Languages  
-`Python` `C#` `Java` `SQL` `Ruby` `Go` `C` `JavaScript` `Assembler`
+`Python` `C#` `Java` `SQL`
 
 ### Tools & Frameworks  
 - **Backend:** Spring Boot • REST APIs • FastAPI  • SQL
 - **AI / ML:** PyTorch • TensorFlow • Transformers • Computer Vision • OpenCV • LLM Agents • RAG • LangChain • LangGraph
-- **Cloud & DevOps:** Docker • AWS • Azure • GCP • CI/CD (Azure DevOps)
+- **Cloud & DevOps:** Docker • AWS • Azure • GCP • CI/CD
 
 ---
 
-## Projects  
+## Projects 
+
+**[3D Engine](https://github.com/jbernardobvdias/3D-Engine)**  
+A lightweight 3D rendering engine built entirely in pure Java with no external dependencies.
 
 **[MCP Server](https://github.com/jbernardobvdias/MCP-Server)**  
 An MCP (Model Context Protocol) server with FastMCP, PostgreSQL, and Docker.
